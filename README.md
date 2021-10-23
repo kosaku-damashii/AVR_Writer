@@ -14,7 +14,7 @@ http://suz-avr.sblo.jp/archives/20070621-1.html
 ・AVR系のワンチップマイコン（ATMEGA328P、ATtiny2313、ATtiny85、ATtiny13A）に対応しています。<BR>
 ・USBシリアル変換アダプターとして使用できます。<BR>
 　以下の接続端子に対応しています。<BR>
-　　- TR5GP (aitendoの「あちゃんでいいの」など)<BR?
+　　- TR5GP (aitendoの「あちゃんでいいの」など)<BR>
 　　- FTDI Basic Breakout (Arduino Pro Miniなど)<BR>
 　　- ICSP (Arduino UNOなど)<BR>
 
